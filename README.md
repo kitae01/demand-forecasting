@@ -1,2 +1,2 @@
 # demand-forecasting
-demand forecasting algorithm
+Studies on demand forecasting
